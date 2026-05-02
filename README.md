@@ -1,2 +1,1 @@
-# hermes-agent-cooperation
-A repository for cooperation with Hermes Agent
+Hi, how are you? How are you feeling?
